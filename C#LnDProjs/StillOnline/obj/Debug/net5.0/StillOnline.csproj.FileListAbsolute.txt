@@ -1,0 +1,5 @@
+C:\Users\jcurry20\OneDrive - DXC Production\Desktop\C#LnDProjs\StillOnline\obj\Debug\net5.0\StillOnline.csprojAssemblyReference.cache
+C:\Users\jcurry20\OneDrive - DXC Production\Desktop\C#LnDProjs\StillOnline\obj\Debug\net5.0\StillOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcurry20\OneDrive - DXC Production\Desktop\C#LnDProjs\StillOnline\obj\Debug\net5.0\StillOnline.AssemblyInfoInputs.cache
+C:\Users\jcurry20\OneDrive - DXC Production\Desktop\C#LnDProjs\StillOnline\obj\Debug\net5.0\StillOnline.AssemblyInfo.cs
+C:\Users\jcurry20\OneDrive - DXC Production\Desktop\C#LnDProjs\StillOnline\obj\Debug\net5.0\StillOnline.csproj.CoreCompileInputs.cache

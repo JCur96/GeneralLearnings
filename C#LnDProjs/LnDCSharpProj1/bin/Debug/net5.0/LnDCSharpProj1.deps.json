@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LnDCSharpProj1/1.0.0": {
+        "runtime": {
+          "LnDCSharpProj1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LnDCSharpProj1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

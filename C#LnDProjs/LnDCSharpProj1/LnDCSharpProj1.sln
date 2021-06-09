@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LnDCSharpProj1", "LnDCSharpProj1.csproj", "{179134B6-12B0-4236-B1F1-29E26BEA9D3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StillOnline", "..\StillOnline\StillOnline.csproj", "{7C1D1614-D963-410D-B5FE-04B3B620AE3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{179134B6-12B0-4236-B1F1-29E26BEA9D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179134B6-12B0-4236-B1F1-29E26BEA9D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179134B6-12B0-4236-B1F1-29E26BEA9D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179134B6-12B0-4236-B1F1-29E26BEA9D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C1D1614-D963-410D-B5FE-04B3B620AE3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C1D1614-D963-410D-B5FE-04B3B620AE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C1D1614-D963-410D-B5FE-04B3B620AE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C1D1614-D963-410D-B5FE-04B3B620AE3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {963FD643-1567-4724-92DF-A37470C4D21F}
+	EndGlobalSection
+EndGlobal
