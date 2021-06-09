@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  --main-color: #ffd93d;
+  --secondary-color: #25272d;
+  --highlight-color: white;
+  --header1: 4rem;
+  --header4: 2.6rem;
+  --text: 2.2rem;
+}
+.container {
+  min-height: 100uh;
+  width: 100%;
+  background: pink;
+  padding: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.container-left {
+  min-height: 50vh;
+  background: var(--secondary-color);
+  flex-grow: 1; /*relative rate of grow to other objs, also relative start size*/
+  flex-shrink: 1; /*relative rate of shrink to other objs*/
+  flex-basis: 600px; /*min shrink size*/
+}
+.container-right {
+  min-height: 50vh;
+  background: var(--main-color);
+  flex-grow: 1;
+  flex-shrink: 1;
+}
+p {
+  font-size: var(--header1);
+  font-family: "Montserrat", sans-serif;
+}

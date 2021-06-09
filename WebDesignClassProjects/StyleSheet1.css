@@ -1,0 +1,28 @@
+﻿x{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container {
+    min-height: 100vh;
+    width: 100%;
+    background: pink;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /*justify-content: space-between;*/
+    align-items: center;
+}
+.box1{
+    height: 300px;
+    width: 300px;
+    background: green;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+.box2 {
+    height: 300px;
+    width: 300px;
+    background: blue;
+}
